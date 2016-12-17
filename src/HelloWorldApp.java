@@ -13,6 +13,7 @@ public class HelloWorldApp {
 
         // this is a change made to 201612-release branch
         // this is a change in 201612 release [002]
+        // this is a fix made on web [001]
         HelloWorldParm.getInstance().setName("Wing");
 
         System.out.println("This is my first class developed in IntelliJ IDEA!\n" + HelloWorldParm.getInstance().getName());
