@@ -6,6 +6,7 @@ public class HelloWorldApp {
     public static void main(String args[])
     {
         // this is a change made to master branch [2]
+        // this is a bug fix on master [001]
         HelloWorldParm.getInstance().setName("Wing");
 
         System.out.println("This is my first class developed in IntelliJ IDEA!\n" + HelloWorldParm.getInstance().getName());
