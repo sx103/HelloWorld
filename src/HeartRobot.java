@@ -9,6 +9,7 @@ public class HeartRobot {
     private String name;
     private Date birthDate;
 
+    // this is a change in 201612 release [001]
     public HeartRobot() {
         this.setName("No Name.");
         this.setBirthDate(new Date());
