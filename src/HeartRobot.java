@@ -11,6 +11,7 @@ public class HeartRobot {
 
     // this is a test comment for master branch [1]
     // this is a bug fix on master [001-done]
+    // this is a bug fix on master [002-done]
     public HeartRobot() {
         this.setName("No Name.");
         this.setBirthDate(new Date());
