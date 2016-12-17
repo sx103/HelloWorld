@@ -9,8 +9,16 @@ public class HeartRobot {
     private String name;
     private Date birthDate;
 
-    // this is a change in 201612 release [001]
+    // this is a test comment for master branch [1]
+    // this is a bug fix on master [001-done]
     // this is a bug fix on master [002-done]
+
+    // this is a change in 201612 release [002]
+
+    // this is a bug fix on master [003-done]
+    // this is a bug fix on master [004-done] test
+    // this is a bug fix on master [005-done]
+
     public HeartRobot() {
         this.setName("No Name.");
         this.setBirthDate(new Date());
