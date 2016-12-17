@@ -5,10 +5,6 @@
 public class HelloWorldApp {
     public static void main(String args[])
     {
-        // This comment is added to test the merge behavior
-        // test comment to check in GitHub
-        // test comment 2 to check in GitHub
-        // test comment 3 to check in GitHub
         HelloWorldParm.getInstance().setName("Wing");
 
         System.out.println("This is my first class developed in IntelliJ IDEA!\n" + HelloWorldParm.getInstance().getName());
