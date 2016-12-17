@@ -10,6 +10,7 @@ public class HeartRobot {
     private Date birthDate;
 
     // this is a change in 201612 release [001]
+    // this is a bug fix on master [002-done]
     // this is a change in 201612 release [002]
     public HeartRobot() {
         this.setName("No Name.");
