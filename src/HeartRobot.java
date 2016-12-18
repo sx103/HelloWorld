@@ -19,6 +19,8 @@ public class HeartRobot {
     // this is a bug fix on master [004-done] test
     // this is a bug fix on master [005-done]
 
+    // this is a feature [a.002]
+
     public HeartRobot() {
         this.setName("No Name.");
         this.setBirthDate(new Date());
