@@ -5,12 +5,15 @@
 public class HelloWorldApp {
     public static void main(String args[])
     {
+        // this is a change made to 201612-release branch
         // this is a change made to master branch [2]
         // this is a bug fix on master [001-done]
         // this is a bug fix on master [005-done]
+        // this is a change in 201612 release [002]
 
         // this is a change made to 201612-release branch
         // this is a change in 201612 release [002]
+        // this is a fix made on web [001] revised in IDE
         HelloWorldParm.getInstance().setName("Wing");
 
         System.out.println("This is my first class developed in IntelliJ IDEA!\n" + HelloWorldParm.getInstance().getName());
