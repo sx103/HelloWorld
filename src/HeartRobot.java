@@ -24,6 +24,9 @@ public class HeartRobot {
 
     // this is a feature [b.001]
 
+    // feature [c.001]
+    // feature [c.002] done
+
     public HeartRobot() {
         this.setName("No Name.");
         this.setBirthDate(new Date());
