@@ -20,6 +20,7 @@ public class HeartRobot {
     // this is a bug fix on master [005-done]
 
     // this is a feature [a.002]
+    // change made on release 201701 [a.003]
 
     // this is a feature [b.001]
 
