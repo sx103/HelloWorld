@@ -26,7 +26,8 @@ public class HeartRobot {
 
     // feature [c.001]
     // feature [c.002]
-    // done this is done after the stash operation 002
+    // done [this part is done in the working space to test the stash feature]
+    // I made some changed after the unstash action
 
     public HeartRobot() {
         this.setName("No Name.");
