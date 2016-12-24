@@ -26,7 +26,7 @@ public class HeartRobot {
 
     // feature [c.001]
     // feature [c.002]
-    // done
+    // done this is done after the stash operation 002
 
     public HeartRobot() {
         this.setName("No Name.");
